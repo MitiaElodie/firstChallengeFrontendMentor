@@ -10,8 +10,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -34,5 +32,3 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@MitiaElodie](https://www.frontendmentor.io/profile/MitiaElodie)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
